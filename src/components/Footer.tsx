@@ -8,8 +8,8 @@ import Link from "next/link";
 const socialMediaLinks = [
   { name: "FacebookLogo", src: "/icons8-facebook-48.png" },
   { name: "InstagramLogo", src: "/icons8-instagram-48.png" },
-  { name: "InstagramLogo", src: "/icons8-linkedin-48.png" },
-  { name: "LinkedInLogo", src: "/icons8-youtube-48.png" },
+  { name: "LinkedInLogo", src: "/icons8-linkedin-48.png" },
+  { name: "YouTubeLogo", src: "/icons8-youtube-48.png" },
 ];
 
 // Footnote 2
